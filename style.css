@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&family=Poppins:wght@200&display=swap');
+
+
+nunito {
+    --nunito: font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-size: cover;
+}
+
+
+#Play{
+    font-family: var(--nunito);
+
+    font-size: 20px;
+}
+
+
+canvas {
+    border: 5px solid gold;
+    border-radius: 20px;
+    margin-top: 70px;
+}
